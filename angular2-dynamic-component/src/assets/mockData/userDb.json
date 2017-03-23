@@ -1,0 +1,17 @@
+[
+    {"email": "empty@qa.com", "dashboard": []},
+    {"email": "sb@qa.com", "dashboard": ["FileuploadComponent"]},
+    {"email": "mj@qa.com", "dashboard": ["FileuploadComponent"]},
+    {"email": "pm@qa.com", "dashboard": ["FileuploadComponent"]},
+    {"email": "tb@qa.com", "dashboard": ["FileuploadComponent"]},
+    {"email": "ali@qa.com", "dashboard": ["FileuploadComponent"]},
+    {"email": "sa@qa.com", "dashboard": ["FileuploadComponent"]},
+    {"email": "u1@qa.com", "dashboard": ["FileuploadComponent","ComponentAComponent"]},
+    {"email": "u2@qa.com", "dashboard": ["FileuploadComponent","ComponentBComponent","ComponentCComponent"]},
+    {"email": "u3@qa.com", "dashboard": ["FileuploadComponent","ComponentCComponent","ComponentDComponent","ComponentEComponent"]},
+    {"email": "u4@qa.com", "dashboard": ["FileuploadComponent","ComponentDComponent","ComponentEComponent","ComponentFComponent", "ComponentAComponent"]},
+    {"email": "u5@qa.com", "dashboard": ["FileuploadComponent","ComponentAComponent","ComponentBComponent","ComponentCComponent","ComponentDComponent","ComponentEComponent"]},
+    {"email": "u6@qa.com", "dashboard": ["ComponentFComponent","ComponentBComponent","ComponentCComponent","ComponentDComponent", "ComponentEComponent", "ComponentFComponent", "ComponentAComponent"]},
+    {"email": "error@qa.com", "dashboard": ["fileuploadComponent"]}
+]
+
